@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  NasaApod
+//
+//  Created by Vishal on 8/1/2022.
+//
+
+ APOD_KEY = Enk4mcdh0ikHsd5SALdi9yQul3xFc7BK3HgnYXp9
+ BASE_URL = api.nasa.gov
+

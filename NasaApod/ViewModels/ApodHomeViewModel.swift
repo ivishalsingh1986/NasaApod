@@ -7,8 +7,8 @@
 
 import Foundation
 
-class ApodHomeViewModel
-{
+class ApodHomeViewModel {
+    
     var date: String?
     var title: String?
     var explanation: String?
